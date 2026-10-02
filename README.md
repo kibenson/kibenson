@@ -1,46 +1,14 @@
-# 👋 Hi, I'm Kibenson
+# Hi there, I'm [kibenson] 👋
 
-## 广告投放 & 产品运营专家
+> **Growth & Marketing Specialist ➔ AI Explorer**  
+> 背景为市场运营与增长，目前正全力探索 AI、大模型应用与自动化落地。
 
-🎯 **专业领域**
-- 📊 广告投放策略优化
-- 📈 数据分析与用户增长
-- 💰 ROI优化与成本控制
-- 🔍 市场分析与竞品研究
+### 🚀 About Me
+- 💼 **背景**：市场营销 / 运营 / 商业增长（Marketing & Growth Operation）
+- 🌱 **当前专注**：学习 AI 应用开发、Prompt Engineering、工作流自动化（如 n8n/Dify/LangChain 等）与 Python 基础
+- 🎯 **目标**：连接**技术**与**商业商业化**，探索如何用 AI 赋能产品增长与运营效率提升
+- 📫 **联系方式**：[kibenson28@gmail.com]
 
-## 🤝 一对一咨询服务
-
-需要针对性的建议？我提供微信咨询服务
-
-**💰 定价：29.9 元 / 次**
-- ⏱️ 响应时间：24小时内
-- 📱 沟通方式：微信
-- 💯 不满意全额退款
-
-**咨询范围：**
-- 广告账户诊断与优化建议
-- 投放策略咨询
-- 数据分析方案
-- 团队运营指导
-
-### 📞 如何预约咨询
-
-关注微信公众号或扫描二维码：
-微信ID: wanghao123ai
-
-## 📊 我的专业成就
-
-- ✅ 5+ 年广告投放经验
-- ✅ 管理过千万级别广告预算
-- ✅ ROI平均提升 40%+
-- ✅ 服务过50+ 企业客户
-
-## 🎁 免费资源
-
-定期分享免费的运营工具和模板：
-- 📊 广告投放数据分析模板
-- 📋 竞品分析清单
-- 🎯 投放优化检查表
-- 📈 ROI计算器
-  
-*Made with ❤️ by Kibenson | 专注广告投放与运营增长*
+### 🛠️ Toolstack & Learning
+- **Marketing & Strategy**: Growth Loops, Content Strategy, Data Analysis, User Research
+- **AI & Dev (In Progress)**: Python, Prompt Engineering, LLM Tools & APIs, Agent Workflows
