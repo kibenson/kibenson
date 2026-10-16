@@ -14,10 +14,10 @@
 给国内粉丝群看的 KPOP 静态页，在 `web/`。不用登录。数据文件是 `web/data/db.js`，按你自己的数据库导出成同样的字段即可。本地打开：
 
 ```bash
-cd web && python3 -m http.server 8765
+cd web && python3 -m http.server 4173
 ```
 
-然后访问 http://127.0.0.1:8765/
+然后访问 http://127.0.0.1:4173/ 。如果这个端口上已经有别的站点，换一个空端口即可。
 
 ### 🛠️ Toolstack & Learning
 - **Marketing & Strategy**: Growth Loops, Content Strategy, Data Analysis, User Research
